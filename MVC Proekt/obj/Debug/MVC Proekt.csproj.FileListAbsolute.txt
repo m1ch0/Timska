@@ -1,0 +1,50 @@
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\ApplicationInsights.config
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\csc.exe
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\System.Collections.Immutable.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\vbc.exe
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\VBCSCompiler.exe
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\roslyn\VBCSCompiler.exe.config
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\MVC Proekt.dll.config
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\MVC Proekt.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\MVC Proekt.pdb
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.AI.Web.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.AI.WindowsServer.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.ApplicationInsights.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.Web.Infrastructure.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Helpers.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Mvc.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Razor.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Webpages.Deployment.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Webpages.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Webpages.Razor.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.AI.Web.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.AI.WindowsServer.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.ApplicationInsights.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Razor.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Webpages.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Webpages.Deployment.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Webpages.Razor.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Helpers.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\System.Web.Mvc.xml
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\obj\Debug\MVC Proekt.csprojResolveAssemblyReference.cache
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\obj\Debug\MVC Proekt.dll
+c:\users\muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\obj\Debug\MVC Proekt.pdb
+C:\Users\Muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\EntityFramework.dll
+C:\Users\Muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\EntityFramework.xml
+C:\Users\Muttley\documents\visual studio 2015\Projects\MVC Proekt\MVC Proekt\bin\EntityFramework.SqlServer.xml
